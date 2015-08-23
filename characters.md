@@ -12,7 +12,6 @@ Name: Mariam Fajr
 Profession: Crossbowman
 
 Age: 60
----
 
 ---
 Sex: Male
@@ -22,7 +21,6 @@ Name: Morgan Angel
 Profession: Silversmith
 
 Age: 59
----
 
 ---
 Sex: Female
@@ -32,7 +30,6 @@ Name: Marina Irene
 Profession: Surgeon
 
 Age: 32
----
 
 ---
 Sex: Male
@@ -42,7 +39,6 @@ Name: Mateo Lukas
 Profession: Pickpocket
 
 Age: 20
----
 
 ---
 Sex: Male
@@ -52,7 +48,6 @@ Name: Mohamed Ibrahim
 Profession: Mercenary
 
 Age: 29
----
 
 ---
 Sex: Male
@@ -62,7 +57,6 @@ Name: Alejandro Santiago
 Profession: Poacher
 
 Age: 38
----
 
 ## The Law
 
@@ -74,7 +68,6 @@ Name: Heitor Stanley
 Profession: Admiral
 
 Age: 30
----
 
 ---
 Sex: Male
@@ -84,7 +77,6 @@ Name: Casey Sydney
 Profession: Cartographer
 
 Age: 46
----
 
 ---
 Sex: Female
@@ -94,7 +86,6 @@ Name: Spencer Bailey
 Profession: Mariner
 
 Age: 45
----
 
 ---
 Sex: Female
@@ -104,7 +95,6 @@ Name: Shawn Brett
 Profession: Judge
 
 Age: 20
----
 
 ## The Hunted
 
@@ -116,7 +106,6 @@ Name: Mary Brett
 Profession: Diver (Criminal)
 
 Age: 51
----
 
 ---
 Sex: Male
@@ -126,7 +115,6 @@ Name: Santino Bailey
 Profession: Burglar
 
 Age: 55
----
 
 ---
 Sex: Female
@@ -136,4 +124,3 @@ Name: Lane Salma
 Profession: Swordsmith
 
 Age: 15
----
